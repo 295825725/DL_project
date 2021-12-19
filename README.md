@@ -1,5 +1,6 @@
 # DL_project
-NYU ECE-GY 7123Deep Learning Project
+NYU ECE-GY 7123 Deep Learning Project
+Tianhao Liu, Hongcheng Fan
 
 dataset link: 
 
